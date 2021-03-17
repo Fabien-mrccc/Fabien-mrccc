@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fabien-mrccc
+- 👀 I’m interested in video games development
+- 🌱 I’m currently learning c language
+- 💞️ I’m looking to collaborate on a student video game
+- 📫 How to reach me : go on my LinkedIn https://www.linkedin.com/in/fabien-marcuccini/
